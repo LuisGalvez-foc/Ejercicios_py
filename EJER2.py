@@ -1,0 +1,10 @@
+'''sumar'''
+a=2
+b=2
+c=a+b
+print(c)
+'''multiplicar'''
+e=10
+f=2
+h=e*f
+print(h)
