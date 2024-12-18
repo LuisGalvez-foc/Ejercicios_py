@@ -1,7 +1,7 @@
 diccionario = {}
 
 
-palabras = input("Introduce la lista de palabras y traducciones en formato palabra:traducción separadas por comas: ")
+palabras = input("Introduce la lista de palabras y traducciones en formato palabra:traducción : ")
 
 for i in palabras.split(','):
     
